@@ -1,5 +1,6 @@
 
 # 2021.3.1
+下载run.zip ,然后打开运行run.exe
 获取confirm_url方式：在浏览器中鼠标右键，然后点检查，定位到元素
 使用之前记得登录
 ![image](https://user-images.githubusercontent.com/35649701/109514276-cf0e0e80-7ae0-11eb-9833-66843cb0ef76.png)
