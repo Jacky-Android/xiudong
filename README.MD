@@ -1,6 +1,7 @@
 
 # 2021.3.1
-获取confirm_url方式：
+获取confirm_url方式：在浏览器中鼠标右键，然后点检查，定位到元素
+使用之前记得登录
 ![image](https://user-images.githubusercontent.com/35649701/109514276-cf0e0e80-7ae0-11eb-9833-66843cb0ef76.png)
 某confirm_url:https://wap.showstart.com/pages/order/activity/confirm/confirm?sequence=132373&ticketId=2d60d9262aa9460a9478b71b5b43f545&ticketNum=1&ioswx=1&showstart=nb
 把获取到的ticketid和sequence参数，替换进去。
@@ -40,8 +41,8 @@
 > 应当输入准备登录的账号数量
 - confirm_url：
 > 应当输入带有观演人和联系电话的订单最后确认页面url
-- 开售时间（格式：2020 10 06 16 00 10）：
-> 应当输入具体开售时间 例 > 2020 10 06 16 00 10
+- 开售时间（格式：2021 3 06 16 00 10）：
+> 应当输入具体开售时间 例 > 2021 3 06 16 00 10
 - 登录第%s个账号
 > 此时应在浏览器窗口输入验证码，并点击登录
 - 输入验证码或手机号后，按回车继续。
